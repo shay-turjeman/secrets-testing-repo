@@ -1,3 +1,4 @@
 url=http://example.com/api
 secret_key=***REMOVED***
 aws_access_key=***REMOVED***
+key_in_side_branch=***REMOVED***
