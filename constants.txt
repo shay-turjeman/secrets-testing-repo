@@ -1,2 +1,3 @@
 url=http://example.com/api
 secret_key=***REMOVED***
+aws_access_key=***REMOVED***
